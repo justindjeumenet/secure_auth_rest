@@ -14,3 +14,5 @@ Lastly, open another terminal page, cd into frontend, run yarn or yarn install t
 Note: To have all functionalities of this project, modify settings.py with your email provider info and you're good to go.
 
 Enjoy it.
+
+MIT Licence!
