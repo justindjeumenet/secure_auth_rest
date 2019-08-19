@@ -1,5 +1,7 @@
 # secure_auth_rest
 
+Secure Auth Rest is a fullstack project developed with React Hooks, Django 2.2, Rest Framework, Rest-Auth, Redux, Redux-thunk Material-UI, SQLite, React-Redux, anymail, ...etc. All functionality for a good authentication. Register and receive an email for an activation; Activate your email before you sign in, you can reset your password event you forgot the old one without signing.
+
 First thing first, make sure you have python 3+, pipenv installed in your machine.
 
 Secondly, downloand the project here and extract it wherever you want to.
