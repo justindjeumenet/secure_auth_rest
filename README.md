@@ -7,7 +7,7 @@ First thing first, make sure you have python 3+, pipenv installed in your machin
 Secondly, downloand the project here and extract it wherever you want to.
 
 Thirdly, run pipenv install --skip-lock to install all dependency in requirements.txt
-After that, run pipenv shell to activate your virtual machine and run python manage.py runserver.
+After that, run pipenv shell to activate your virtual machine and run python manage.py runserver. Please do NOT forget to run python manage.py makemigrations and python manage.py migrate to create all tables in your database.
 
 Lastly, open another terminal page, cd into frontend, run yarn or yarn install to install all react dependencies. Now, run yarn run start to launch your frontend app.
 
